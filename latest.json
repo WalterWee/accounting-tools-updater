@@ -1,35 +1,35 @@
 {
   "version": "1.0.5",
   "notes": "参见下方附件下载安装包。",
-  "pub_date": "2026-02-27T10:42:19.820Z",
+  "pub_date": "2026-02-27T11:12:58.302Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbFBoRDdkSUNaTkszaU1vSjlqdHh5V2grbGRsZDJZUkdBNE5kaFptS0k4LzB4TVpDd1ZTY3pTYWtWdWhKcHJObmJpYkJpUmVpUHA4MU5KendTOVFHWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTg4NTg4CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV9hbWQ2NC5BcHBJbWFnZQpqWk1wL2E3TDhFZEUvMGN4SmwxTDFpVnRRQVc1NEpyNHdoWm83NWZVZ0cxbVFtajJqM2VOOWFnSi9MOThJU2xtVXRBLzZSR1NzdjJTSHVuTEVrNjVCZz09Cg==",
-      "url": "https://github.com/WalterWee/accounting_tools/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbEo3alRCT3B1VmM0S212UmhZTHFPcndaeTZwREpEV3pxb0xnM0V1bk8xYzdWQjg3b2FrdHl5NWdudDNMdWZZZE1KTEdOWEZHenB5ODZRQzdoelJoNmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTkwNzEyCWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV9hbWQ2NC5BcHBJbWFnZQpHZldzWTl6azlCZ1BJZTNMTEwrbGw4a1FwdTJETS9JSGpuc3pNTE1rejYxSWhnbWYrbU5lNENyTGlSQWdTbVdtYzIrWE9BQ3BzZlBxM0hZcTFMeTNEdz09Cg==",
+      "url": "https://github.com/WalterWee/accounting-tools-updater/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbFBoRDdkSUNaTkszaU1vSjlqdHh5V2grbGRsZDJZUkdBNE5kaFptS0k4LzB4TVpDd1ZTY3pTYWtWdWhKcHJObmJpYkJpUmVpUHA4MU5KendTOVFHWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTg4NTg4CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV9hbWQ2NC5BcHBJbWFnZQpqWk1wL2E3TDhFZEUvMGN4SmwxTDFpVnRRQVc1NEpyNHdoWm83NWZVZ0cxbVFtajJqM2VOOWFnSi9MOThJU2xtVXRBLzZSR1NzdjJTSHVuTEVrNjVCZz09Cg==",
-      "url": "https://github.com/WalterWee/accounting_tools/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbEo3alRCT3B1VmM0S212UmhZTHFPcndaeTZwREpEV3pxb0xnM0V1bk8xYzdWQjg3b2FrdHl5NWdudDNMdWZZZE1KTEdOWEZHenB5ODZRQzdoelJoNmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTkwNzEyCWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV9hbWQ2NC5BcHBJbWFnZQpHZldzWTl6azlCZ1BJZTNMTEwrbGw4a1FwdTJETS9JSGpuc3pNTE1rejYxSWhnbWYrbU5lNENyTGlSQWdTbVdtYzIrWE9BQ3BzZlBxM0hZcTFMeTNEdz09Cg==",
+      "url": "https://github.com/WalterWee/accounting-tools-updater/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbExSNXlQZUl5Q2poVXhJZ3RMb0dOcXZ5bzVEeklwOEZVN0kyb2ZRcjM3ZXYwb3BybGlnWENNM016OEN5RTVjZGwwTGFLTUhwOERkR2ZsSXUra2dSb2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTg4NTg4CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV9hbWQ2NC5kZWIKbCtFdXJPNHJnOU9PaGZYcFhVWEdadVZVSG5qRDZwV1FuaFFnLzNWaEIrckxmdlVtSEt5c0hQbEw3NXBnbWs3STRHMmwyWDNpcUlKOXJtZm1VbTlYQmc9PQo=",
-      "url": "https://github.com/WalterWee/accounting_tools/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbERLdUJSbmFWWVUwdjFMNytCRFR6MHkxbHpRVjdFQkY2ZFhCbThYV2NUZUY5aHlkdkt1UHc5SGJ4LzM1QTFoRExsS3JLSnBvcUk2K2JTdHZuaTgwdGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTkwNzEyCWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV9hbWQ2NC5kZWIKOFlKVGhteTZ0SmhGYUFDdU8xMXB1OXl5QVBGV2s3WFArclBaNGlmazV3cFcvVGtQUVRXcUR3UU94NlhndDk3a0lNZG04MGZaVUVQcWoxNEI2RXczRGc9PQo=",
+      "url": "https://github.com/WalterWee/accounting-tools-updater/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbEdyZjJvNGtHWXp5T2tRa3dERW9IU0NlNmVhNmgvRjNmOGc2UjNmUWo2V1BiQ3Rmdzg3SUtzMVR1QzNxOWpwdnNqUFg3dE9pWTNmYUUwS0JEZEZiendZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTg4NTg4CWZpbGU6UERGIFJlY2VpcHQgVG9vbC0xLjAuNS0xLng4Nl82NC5ycG0KNm9IN3ZmSVBLeXdjRXRRS1NmUFVPM2d5NDVQTzBhZzl0OG41VEk1MjhWdE9BbW1USUE3SmtGejRJaHF4RmxGTkxwamsvKzVMYnlubVJySWdNc3A5QkE9PQo=",
-      "url": "https://github.com/WalterWee/accounting_tools/releases/download/v1.0.5/PDF.Receipt.Tool-1.0.5-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbEdYSTFIRk5KRjFQeUxrMy8vSXBQMXlZYVV4Y0xmSXlKNkNYZU42Yjk3SVBHUERLbnZraDZzV2RPQzdpanYwQ3RJdTBXUDVzdjZmM3VGNlJ6WkZoK0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTkwNzEyCWZpbGU6UERGIFJlY2VpcHQgVG9vbC0xLjAuNS0xLng4Nl82NC5ycG0KMjMvZitYYm9rL0R6QnZCcTl3UkpmbENCNHltakhnWWcxdHFEdXRNUWdoMXRPbDNlck1WdU5LOTlSQW85TDJKNUFjanpEOHIzcHI5Z0UvU1dFaVd3RHc9PQo=",
+      "url": "https://github.com/WalterWee/accounting-tools-updater/releases/download/v1.0.5/PDF.Receipt.Tool-1.0.5-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbE9DbmlZWFoyc2JIVi9yL3FGeHJQZkpCSkZHbENUT2cvODh6K2puZ2pCeld0YkZpb3JkRExqN1pybVp0REYvZER5WlB4TXpobE4yN0FZaVFWL05ITUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTg4OTM2CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV94NjRfZW4tVVMubXNpCmtCdXF3eHQyc081YlZkSVhVRTZyRHpLSm9HMVllQTJMK2dXNjlFTDE5YThiSDFKREorUmFyYXZlNmJ0RHh4NnJEeHdvSEFmcDZiaGkvUERSQkVTYkRBPT0K",
-      "url": "https://github.com/WalterWee/accounting_tools/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbEdRamhlVEE1YkJCOGsxNWFDbUcraUxNUUtvQ3o5VWxSYjM1U2hkQ3FjOXAxc09ZNFRBRGF4OGQxZWRGMzdoT0RDSGhSeDhPYldwRHZzNU9JL2h6bFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTkwNzc0CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV94NjRfZW4tVVMubXNpCnNUeE41S1NBRXlUNk5sUnlWS25rd1hEM2x4TmxDZVl0Y2FueHFSd3lVb25kTk1ja3A4Q2pHRWp6QjlnOXJqU1FrSjY5ZUxsVXVnSHl1VC9VdlJDaUFRPT0K",
+      "url": "https://github.com/WalterWee/accounting-tools-updater/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbE9DbmlZWFoyc2JIVi9yL3FGeHJQZkpCSkZHbENUT2cvODh6K2puZ2pCeld0YkZpb3JkRExqN1pybVp0REYvZER5WlB4TXpobE4yN0FZaVFWL05ITUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTg4OTM2CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV94NjRfZW4tVVMubXNpCmtCdXF3eHQyc081YlZkSVhVRTZyRHpLSm9HMVllQTJMK2dXNjlFTDE5YThiSDFKREorUmFyYXZlNmJ0RHh4NnJEeHdvSEFmcDZiaGkvUERSQkVTYkRBPT0K",
-      "url": "https://github.com/WalterWee/accounting_tools/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbEdRamhlVEE1YkJCOGsxNWFDbUcraUxNUUtvQ3o5VWxSYjM1U2hkQ3FjOXAxc09ZNFRBRGF4OGQxZWRGMzdoT0RDSGhSeDhPYldwRHZzNU9JL2h6bFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTkwNzc0CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV94NjRfZW4tVVMubXNpCnNUeE41S1NBRXlUNk5sUnlWS25rd1hEM2x4TmxDZVl0Y2FueHFSd3lVb25kTk1ja3A4Q2pHRWp6QjlnOXJqU1FrSjY5ZUxsVXVnSHl1VC9VdlJDaUFRPT0K",
+      "url": "https://github.com/WalterWee/accounting-tools-updater/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbEZ0YldQSlMvK2x1c3U4RyszMUFlL2xCSVREbTRkeE1oeE4weDFhaktlL3RXb0hpb2pmR3gwVmhHV2dGZHFrdTVUeVFUWWdEQ21sMExNM1FNUzc1THdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTg4OTM2CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV94NjQtc2V0dXAuZXhlClBFeWJmQ2ZNYU1oZ082NTRoMHR3akdnMHRaeHpSenZVZmQwbnYrMndvR05NeTVpS0taS3VmbU4welVJTlFHY0ltdDhGSTk2NDdpc2wyQ2lLTWl5OUFRPT0K",
-      "url": "https://github.com/WalterWee/accounting_tools/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRisvRVlKWW5NbE9qOGt5dVRUL1oyRmxjYng5SFBFaHNaOThwTHhDV1dqYkVmOXVuUXZmNCtLcm5mR1p2VkRZRTEyTmpWRCtxS1dqMnhMamlCemkyZWpHdDVhZkRzSGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTkwNzc0CWZpbGU6UERGIFJlY2VpcHQgVG9vbF8xLjAuNV94NjQtc2V0dXAuZXhlClR1Z3hyeGQwT3FqTTNGd3QvdTdZdUE0RWpuQ21ZbTUyYmM0U0tSdWNBTmZGZ1hOY256VlZoa2FobWo3OE5TQkx1aW1PWTBaSWJPVGJTaE1iUmZ2OUFBPT0K",
+      "url": "https://github.com/WalterWee/accounting-tools-updater/releases/download/v1.0.5/PDF.Receipt.Tool_1.0.5_x64-setup.exe"
     }
   }
 }
